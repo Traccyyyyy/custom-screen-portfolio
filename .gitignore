@@ -1,0 +1,36 @@
+# Source code and confidential files
+src/
+node_modules/
+dist/
+build/
+
+# IDE and editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store
+
+# Environment and config files
+.env
+.env.*
+config/
+*.config.js
+
+# Dependencies
+package-lock.json
+yarn.lock
+
+# Logs and debugging
+*.log
+debug/
+logs/
+
+# Build artifacts
+*.min.js
+*.min.css
+*.map
+
+# Keep only documentation and public assets
+!docs/
+!README.md 
