@@ -1,4 +1,4 @@
-# Custom Screen Web Application
+#employee-hr-webapp 
 
 [![Lit](https://img.shields.io/badge/lit-3.0.0-blue.svg)](https://lit.dev/)
 [![JavaScript](https://img.shields.io/badge/JavaScript-ES6%2B-yellow.svg)](https://www.javascript.com)
